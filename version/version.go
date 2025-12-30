@@ -6,5 +6,6 @@
 package version
 
 const (
-	Number = "0.5.3"
+	Number  = "1.0.0"
+	AppName = "Nexapp Guard"
 )
